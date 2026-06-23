@@ -33,7 +33,7 @@
 6. 此时可通过 VLOOKUP 函数将图片引用传递到其他工作表
 
 <div align="center">
-  <img src="image/图片嵌入单元格批量.png" alt="所有图片嵌入单元格" width="600" />
+  <img src="image/图片嵌入单元格批量.png" alt="所有图片嵌入单元格" />
   <br/>
   <strong>图1：批量嵌入图片到单元格操作</strong>
 </div>
